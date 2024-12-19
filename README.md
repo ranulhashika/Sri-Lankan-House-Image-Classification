@@ -1,7 +1,7 @@
 # House Image Classification for Sri Lankan Homes 🏠🖼️
 
 ## Project Overview 🌍
-This project classifies Sri Lankan house images into four categories:
+This project classifies Sri Lankan house images into four categories using a CNN model:
 - **Pantry**
 - **Bathroom**
 - **Indoor**
