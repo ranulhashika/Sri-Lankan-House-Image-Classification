@@ -40,7 +40,7 @@ The objective of this model is to integrate with classified advertisement platfo
 Place images in the Data/To_predict folder and run model.ipynb notebook. 
 
 ## Data Sources 📥 ##
-The data for this project is sourced from publicly available images. The training images are stored in the Data/Labeled folder. Only dummy images are included in this repository. The original dataset is excluded due to ethical considerations.
+The data for this project is sourced from publicly available images. The data was manually labeled using PhotoSift. The training images are stored in the Data/Labeled folder. Only dummy images are included in this repository. The original dataset is excluded due to ethical considerations.
 
 
 ## Sample Predictions ##
